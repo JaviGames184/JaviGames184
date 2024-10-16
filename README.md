@@ -16,8 +16,10 @@ Los usuarios pueden seleccionar el año de interés a través de una barra desli
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=radical)
   
 ## 👤 Mis perfiles en redes sociales
-- [GitHub](https://github.com/JaviGames184)
-- [LinkedIn](https://www.linkedin.com/in/javierramosjimeno/)
+<a href="https://www.linkedin.com/in/javierramosjimeno/">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" width="128" height="35" />
+</a>
+<br>
 
 ## 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical&locale=es)
