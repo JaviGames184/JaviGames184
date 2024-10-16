@@ -15,9 +15,9 @@ Este es un proyecto para la asignatura *Paradigmas de Programación* que incluye
 Proyecto de visualización de datos que muestra las temperaturas medias globales utilizando un mapa coroplético. 
 Los usuarios pueden seleccionar el año de interés a través de una barra deslizadora e interactuar con el mapa para ver gráficos de líneas animados que muestran las tendencias de temperatura por país y ciudad. 
 
-## 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical)
-
-## 📫 ¡Contácta conmigo!
+## 👤 Mis perfiles en redes sociales
 - [GitHub](https://github.com/JaviGames184)
 - [LinkedIn]([https://www.linkedin.com/in/javier-gonzalez/](https://www.linkedin.com/in/javierramosjimeno/))
+
+## 📈 Mis estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical)
