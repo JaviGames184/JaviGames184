@@ -17,7 +17,7 @@ Los usuarios pueden seleccionar el año de interés a través de una barra desli
 
 ## 👤 Mis perfiles en redes sociales
 - [GitHub](https://github.com/JaviGames184)
-- [LinkedIn]([https://www.linkedin.com/in/javierramosjimeno/])
+- [LinkedIn](https://www.linkedin.com/in/javierramosjimeno/)
 
 ## 📈 Mis estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical)
