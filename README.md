@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Javier
 
-Actualmente, estoy cursando el 5º año del Grado en Ingeniería de Datos (*InDat*) en la Universidad de Valladolid (UVA).
+Actualmente, estoy cursando el 5º año del Grado en Ingeniería de Informática y Grado en Estadística (*InDat*) en la Universidad de Valladolid (UVA).
 
 ## 📁 Mis proyectos 
 ### **Deslizator** - [Ver Repositorio](https://github.com/JaviGames184/uva.paradigmasprogramacion)
