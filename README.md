@@ -13,7 +13,7 @@ Proyecto de visualización de datos que muestra las temperaturas medias globales
 Los usuarios pueden seleccionar el año de interés a través de una barra deslizadora e interactuar con el mapa para ver gráficos de líneas animados que muestran las tendencias de temperatura por país y ciudad. 
 
 ## 💻 Lenguajes de programación
-![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=radical)
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=radical&locale=es)
   
 ## 👤 Mis perfiles en redes sociales
 <a href="https://www.linkedin.com/in/javierramosjimeno/">
