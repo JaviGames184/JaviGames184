@@ -15,11 +15,11 @@ Los usuarios pueden seleccionar el año de interés a través de una barra desli
 ## 💻 Lenguajes de programación
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=radical&locale=es)
   
-## 👤 Mis perfiles en redes sociales
-<a href="https://www.linkedin.com/in/javierramosjimeno/">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" width="128" height="35" />
-</a>
-<br>
-
 ## 📈 Mis estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical&locale=es)
+
+[![](https://visitcount.itsvg.in/api?id=JaviGames184&icon=0&color=12)](https://visitcount.itsvg.in)
+
+## 👤 Mis perfiles en otras redes sociales
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierramosjimeno/) 
+
