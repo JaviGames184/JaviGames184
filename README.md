@@ -2,7 +2,7 @@
 
 Actualmente, estoy cursando el 5º año del Grado en Ingeniería de Informática y Grado en Estadística (*InDat*) en la Universidad de Valladolid (UVA).
 
-## 📁 Mis proyectos 
+## 📁 Algunos proyectos 
 ### **Visualización de Temperaturas Globales** - [Ver Repositorio](https://github.com/JaviGames184/uva.desi)
 Este es un proyecto de visualización de datos que muestra las temperaturas medias globales utilizando un mapa coroplético para la asignatura *Diseño y Evaluación de Sistemas Interactivos*.
 Los usuarios pueden seleccionar el año de interés a través de una barra deslizadora e interactuar con el mapa para ver gráficos de líneas animados que muestran las tendencias de temperatura por país y ciudad. 
