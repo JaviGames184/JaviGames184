@@ -17,10 +17,11 @@ Este es un proyecto para la asignatura de *Estructura de Sistemas Operativos*.
 Contiene el código desarrollado para las diferentes prácticas que se plantean en el [repositorio de la asignatura](https://github.com/bsahelices/laboratorio-eso)
 
 ## 💻 Lenguajes de programación
-![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=radical&locale=es)
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=tokyonight&locale=es)
+
   
 ## 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=radical&locale=es)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaviGames184&show_icons=true&theme=tokyonight&locale=es)
 
 ![](https://visitcount.itsvg.in/api?id=JaviGames184&icon=0&color=12)
 
