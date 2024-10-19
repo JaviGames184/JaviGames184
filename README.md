@@ -14,7 +14,7 @@ Este es un proyecto para la asignatura *Paradigmas de Programación* que incluye
 
 ### **UVash** - [Ver Repositorio](https://github.com/JaviGames184/uva.eso)
 Este es un proyecto para la asignatura de *Estructura de Sistemas Operativos*.
-Contiene el código desarrollado para las diferentes prácticas que se plantean en el [repositorio de la asignatura](https://github.com/bsahelices/laboratorio-eso)
+Contiene el código desarrollado para las diferentes prácticas que se plantean en el [repositorio de la asignatura](https://github.com/bsahelices/laboratorio-eso).
 
 ## 💻 Lenguajes de programación
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=compact&theme=tokyonight&locale=es)
