@@ -5,10 +5,12 @@ Actualmente, estoy cursando el 5º año del Grado en Ingeniería de Informática
 ## 📁 Algunas de mis prácticas
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.par\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.par)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.fcomp\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.fcomp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.eso\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.eso)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.fso\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.fso)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.eso\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.eso)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.fcomp\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.fcomp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.aoc\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.aoc)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.desi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.desi)
 
