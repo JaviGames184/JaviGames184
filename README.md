@@ -1,6 +1,6 @@
 # 👋🏻 ¡Hola! Soy Javier
 
-Actualmente, estoy cursando el 5º año del Grado en Ingeniería de Informática y Grado en Estadística (*InDat*) en la Universidad de Valladolid (UVA).
+Soy graduado de Ingeniería de Informática y Grado en Estadística (*InDat*) en la Universidad de Valladolid (UVA).
 
 ## 📁 Algunas de mis prácticas
 
