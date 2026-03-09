@@ -4,18 +4,18 @@ Soy graduado de Ingeniería de Informática y Grado en Estadística (*InDat*) en
 
 ## 📁 Algunas de mis prácticas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.par\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.par)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=JaviGames184&repo=uva.par&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JaviGames184/uva.par)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.fso\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.fso)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.eso\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.eso)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=JaviGames184&repo=uva.fso&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JaviGames184/uva.fso)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=JaviGames184&repo=uva.eso&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JaviGames184/uva.eso)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.fcomp\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.fcomp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.aoc\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.aoc)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=JaviGames184&repo=uva.fcomp&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JaviGames184/uva.fcomp)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=JaviGames184&repo=uva.aoc&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JaviGames184/uva.aoc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaviGames184&repo=uva.desi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/JaviGames184/uva.desi)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=JaviGames184&repo=uva.desi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JaviGames184/uva.desi)
 
 ## 💻 Lenguajes de programación
-![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGames184&layout=donut-vertical&theme=tokyonight&locale=es&langs_count=20)
+![Lenguajes de programación](https://github-stats-extended.vercel.app/api/top-langs/?username=JaviGames184&layout=donut-vertical&theme=tokyonight&locale=es&langs_count=20)
 
 ## 👤 Mis perfiles en otras redes sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierramosjimeno/) 
